@@ -48,7 +48,7 @@ const JD_API_HOST = `https://api.m.jd.com`;
     }
     console.log(`\n发财大赢家助力逻辑：优先助力填写的互助码环境变量，中午10点之后再给我助力\n`)
     message = ''
-    $.linkid = "PFbUR7wtwUcQ860Sn8WRfw"
+    $.linkid = ""
     //开红包查询
     for (let i = 0; i < cookiesArr.length; i++) {
         cookie = cookiesArr[i];
