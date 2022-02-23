@@ -47,11 +47,11 @@ if ($.isNode()) {
             $.ADID = getUUID('xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx', 1);
             $.UUID = getUUID('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
             authorCodeList = [
-                '',
+                'Zjaex487RnRfTt+2IFYntsjNhNaYFy2HteErE6izlhTf9nrGY7gBkCdGU4C6z/xD',
             ]
-            $.appkey = ""
-            $.userId = ""
-            $.actId = ""
+            $.appkey = "51B59BB805903DA4CE513D29EC448375"
+            $.userId = "10299171"
+            $.actId = "29a7e74b884d42adb90d8_22022001"
             // $.authorCode = authorCodeList[random(0, authorCodeList.length)]
             $.authorCode = ownCode ? ownCode : authorCodeList[random(0, authorCodeList.length)]
             console.log('去助力 -> '+$.authorCode);
