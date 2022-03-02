@@ -1,7 +1,7 @@
 /*
 东东超市
 Last Modified time: 2021-3-4 21:22:37
-活动入口：京东APP首页-京东超市-底部东东超市
+活动入口：京东APP首页-京东超市-底部东东超市1
 Some Functions Modified From https://github.com/Zero-S1/JD_tools/blob/master/JD_superMarket.py
 东东超市兑换奖品请使用此脚本 jd_blueCoin.js
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
